@@ -200,8 +200,4 @@ while selected != "SAIR":
     
   elif selected == "7":
     funcao7()
-'''
-  elif selected != "1" and selected != "2" and selected != "3" and selected != "4" and selected != "5" and selected != "6" and selected != "7" and selected != "SAIR":
-    print("Erro! Digite apenas as opções mostradas!")
-    continue
-'''
+
